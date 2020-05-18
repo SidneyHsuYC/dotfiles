@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/sidneyhsu/.vim'
+let g:netrw_dirhist_2='/Users/sidneyhsu'
+let g:netrw_dirhist_3='/Users/sidneyhsu/solarized'
+let g:netrw_dirhist_4='/Users/sidneyhsu/Desktop'
+let g:netrw_dirhist_5='/Users/sidneyhsu/.vim'
+let g:netrw_dirhist_6='/Users/sidneyhsu/.jupyter'
+let g:netrw_dirhist_7='/Users/sidneyhsu/Library/Jupyter/kernels/bom.venv'
